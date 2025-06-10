@@ -21,13 +21,8 @@ O objetivo é demonstrar minhas habilidades no desenvolvimento web e minha paix�
 
 ## Funcionalidades
 
-- **Layout Responsivo:** Adaptação dos elementos em diferentes tamanhos de tela.
-- **Navegação Simples:** Links integrados para navegar entre as páginas "Início", "Sobre Mim" e "Projetos".
-- **Interatividade:** Botões que redirecionam ações, como o "Voltar ao Início" na página "Sobre Mim".
-- **Imagens e Design Visual:** Exibição de uma imagem de perfil e uma imagem final que encerram e complementam o conteúdo.
+- **Layout Responsivo:** Adaptação dos elementos em diferentes tamanhos de tela
+- **Navegação Simples:** Links integrados para navegar entre as páginas "Início" e "Sobre Mim"
+- **Interatividade:** Botões que redirecionam ações, como o "Voltar ao Início" na página "Sobre Mim"
+- **Imagens e Design Visual:** Exibição de uma imagem de perfil e uma imagem ilustrativa no início
 - **Validação de Marcação:** Código HTML devidamente validado conforme o [Markup Validation Service](https://validator.w3.org/).
-
-## Estrutura do Projeto
-
-A estrutura de diretórios do projeto está organizada conforme abaixo:
-
