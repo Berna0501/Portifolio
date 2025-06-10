@@ -7,7 +7,7 @@
 Este projeto consiste em um site de portfólio pessoal que exibe informações sobre mim. Nele, você encontrará:
 
 - Uma página inicial (*index.html*) com uma breve introdução e um link para a página "Sobre Mim"
-- A página *sobre.html*, que contém minha biografia, interesses, objetivos e uma imagem final
+- A página *sobre.html*, que contém minha minha foto, biografia, interesses e objetivos
 - Um design responsivo feito com HTML semântico, CSS (utilizando Flexbox e Grid) e interatividade básica com JavaScript
 
 O objetivo é demonstrar minhas habilidades no desenvolvimento web e minha paixão pelas áreas de **CyberSecurity** e **Data Science**
