@@ -1,4 +1,4 @@
-# Portfólio de Bernardo
+# Meu Portfólio
 
 > Este é meu portfólio pessoal, criado para apresentar minha trajetória acadêmica, meus interesses profissionais e projetos desenvolvidos. O site utiliza tecnologias web modernas, como HTML5, CSS3 e JavaScript, e segue boas práticas de estruturação e design responsivo.
 
