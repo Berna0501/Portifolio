@@ -17,7 +17,6 @@ O objetivo é demonstrar minhas habilidades no desenvolvimento web e minha paix�
 - **HTML:** Estrutura do conteúdo com marcação semântica
 - **CSS:** Estilização com Flexbox, Grid e responsividade
 - **JavaScript:** Interatividade (por exemplo, redirecionamento com botões)
-- **GitHub Pages:** Hospedagem do site para acesso público
 
 ## Funcionalidades
 
